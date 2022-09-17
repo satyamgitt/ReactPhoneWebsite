@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactPhoneWebsite/static/css/main.f9c74c8b.css",
+    "main.js": "/ReactPhoneWebsite/static/js/main.56c48947.js",
+    "static/media/C8DADAFE-2BD4-48AF-908C-3338BAF3686E.png": "/ReactPhoneWebsite/static/media/C8DADAFE-2BD4-48AF-908C-3338BAF3686E.c8a6d48c254a5b4e8567.png",
+    "static/media/image@3x.png": "/ReactPhoneWebsite/static/media/image@3x.835bc130cf88fe16f244.png",
+    "static/media/img-1.png": "/ReactPhoneWebsite/static/media/img-1.46de552a7672d2bc37a9.png",
+    "static/media/i-phone-body@3x.png": "/ReactPhoneWebsite/static/media/i-phone-body@3x.171b3d50a301bb7114e2.png",
+    "static/media/rectangle-copy-4.jpg": "/ReactPhoneWebsite/static/media/rectangle-copy-4.2c447b7cdd50a3b43474.jpg",
+    "static/media/rectangle-copy-2.jpg": "/ReactPhoneWebsite/static/media/rectangle-copy-2.77a04f94afdf5ee910d7.jpg",
+    "static/media/rectangle-copy.jpg": "/ReactPhoneWebsite/static/media/rectangle-copy.00bfc923131c2cb00e16.jpg",
+    "static/media/rectangle-copy-3.jpg": "/ReactPhoneWebsite/static/media/rectangle-copy-3.025edda67f1998c4f7e2.jpg",
+    "index.html": "/ReactPhoneWebsite/index.html",
+    "main.f9c74c8b.css.map": "/ReactPhoneWebsite/static/css/main.f9c74c8b.css.map",
+    "main.56c48947.js.map": "/ReactPhoneWebsite/static/js/main.56c48947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c74c8b.css",
+    "static/js/main.56c48947.js"
+  ]
+}
